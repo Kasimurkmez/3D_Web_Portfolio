@@ -223,7 +223,7 @@ const projects = [
       },
     ],
     image: nike,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Kasimurkmez/3D_Web_Portfolio",
   },
   {
     name: "Todo List",
